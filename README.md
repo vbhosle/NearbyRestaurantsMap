@@ -3,7 +3,7 @@
 NearbyRestaurantsMap web app enables users to search the restaurants:fork_and_knife:, cafes:coffee:, bars:beers: etc. around a circular area on a map. Found restaurants can be filtered using different criteria's like rating, cost. GOOGLE MAP API is used for the map and ZOMATO API for the restaurants data.
 
 # Try it out Live
-http://35.154.170.92/searchRestaurants
+https://vbhosle.github.io/NearbyRestaurantsMap/
 
 # Content:
 - [Usage Walkthrough](#usage-walkthrough)
